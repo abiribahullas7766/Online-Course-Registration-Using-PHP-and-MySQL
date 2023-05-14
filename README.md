@@ -22,14 +22,23 @@ Open Your browser put inside browser “http://localhost/onlinecourse”
 
 
 Login Details for admin 
+
 Username: admin
+
 Password: Test@123
 
 
 
 Login Details for Student: 
+
+
 Reg No.: 10806121
+
+
 Password: 776690077
+
+
+
 Student Pincode for enroll Course Student: 822894
 
 ![Capture](https://github.com/abiribahullas7766/Online-Course-Registration-Using-PHP-and-MySQL/assets/54986400/2e1a247e-efde-453e-b007-cc219e9e2776)
