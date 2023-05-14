@@ -7,6 +7,24 @@ It is ideal for schools, educational camps, corporate training programs, and onl
 It also provides time to time current status information related to courses. 
 It can help for the student need to register by giving necessary details, for the desired course.
 
+Online Course Registration System Modules
+
+
+
+This Project Divided into two modules
+
+    . Admin
+    . Student
+    
+    
+Admin —–Admin will register the student and provide username,password and pincode.Pincode will be used when a student enrolls for the course. Admin can manage session,semester,departments,course,students,students log.
+    
+   
+
+
+
+
+
 
 
 How to Rum Online Course Registration Using PHP and MySQL:
