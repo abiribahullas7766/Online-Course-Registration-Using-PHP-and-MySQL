@@ -61,7 +61,7 @@ Password: Test@123
 Login Details for Student: 
 
 
-Reg No.: 10806121
+Reg No.: 202301033
 
 
 Password: 123456789
