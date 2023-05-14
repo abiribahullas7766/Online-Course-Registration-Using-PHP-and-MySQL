@@ -1,7 +1,13 @@
 # Online-Course-Registration-Using-PHP-and-MySQL
 
 
-How to Rum Online Course Registration Using PHP and MySQL
+How to Rum Online Course Registration Using PHP and MySQL:
+
+Online Course Registration System is Web-based registration software that helps you to register courses online. 
+It is ideal for schools, educational camps, corporate training programs, and online training programs. 
+It also provides time to time current status information related to courses. 
+It can help for the student need to register by giving necessary details, for the desired course.
+
 
 1. Download and Unzip file on your local system.
 2. Copy onlinecourse and Put this file inside root directory
