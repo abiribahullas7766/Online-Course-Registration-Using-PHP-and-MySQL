@@ -17,11 +17,11 @@ This Project Divided into two modules
     . Student
     
     
-Admin —–Admin will register the student and provide username,password and pincode.Pincode will be used when a student enrolls for the course. Admin can manage session,semester,departments,course,students,students log.
+#Admin —–Admin will register the student and provide username,password and pincode.Pincode will be used when a student enrolls for the course. Admin can manage session,semester,departments,course,students,students log.
 
 
 
-Students– Students can log in with valid reg no and password provided by the admin. Students can enroll for any course and can printout of the registered course.
+#Students –-- Students can log in with valid reg no and password provided by the admin. Students can enroll for any course and can printout of the registered course.
     
    
 
